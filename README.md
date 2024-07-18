@@ -1,16 +1,10 @@
-# expense_tracker
+# Expense_tracker
 
-A new Flutter project.
+![Screenshot 2024-07-18 163056](https://github.com/user-attachments/assets/d3e09a30-f201-4be0-bdfe-9fd36b5c5763)
+![Screenshot 2024-07-18 163106](https://github.com/user-attachments/assets/39aec6c4-d2bb-4850-8174-8cfbb0a574b4)
 
-## Getting Started
+## Dark mode
 
-This project is a starting point for a Flutter application.
+![Screenshot 2024-07-18 163123](https://github.com/user-attachments/assets/437e3b26-9ad8-41f7-8192-1e275a90c728)
+![Screenshot 2024-07-18 163142](https://github.com/user-attachments/assets/b57e66d4-3e2d-4c4f-84d4-bac1af621e99)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
